@@ -36,3 +36,6 @@ async def roll(ctx, dice: str):
     await ctx.send(result)
 
 bot.run("MEU TOKEN")
+
+
+#ALGUMA COISA
